@@ -50,4 +50,7 @@
       "libraryId": "EntityFramework",
       "targetGraphs": [
         "net8.0"
-      ]
+      ]
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eyuphan\\Desktop\\GitHubb\\E-Ticaret\\Entities\\Entities.csproj": {}
+    "C:\\Users\\eyuphan\\Desktop\\GitHubb\\Yeni klasör\\E-Ticaret\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eyuphan\\Desktop\\GitHubb\\E-Ticaret\\Entities\\Entities.csproj": {
+    "C:\\Users\\eyuphan\\Desktop\\GitHubb\\Yeni klasör\\E-Ticaret\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eyuphan\\Desktop\\GitHubb\\E-Ticaret\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\eyuphan\\Desktop\\GitHubb\\Yeni klasör\\E-Ticaret\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\eyuphan\\Desktop\\GitHubb\\E-Ticaret\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\eyuphan\\Desktop\\GitHubb\\Yeni klasör\\E-Ticaret\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\eyuphan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eyuphan\\Desktop\\GitHubb\\E-Ticaret\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\eyuphan\\Desktop\\GitHubb\\Yeni klasör\\E-Ticaret\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\eyuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
