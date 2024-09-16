@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+<<<<<<< HEAD
+    "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Repositories\\Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\eyuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Entities\\obj\\",
+=======
+    "C:\\Users\\eyuphan\\Desktop\\Proje\\Repositories\\Repositories.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eyuphan\\Desktop\\Proje\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eyuphan\\Desktop\\Proje\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\eyuphan\\Desktop\\Proje\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\eyuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eyuphan\\Desktop\\Proje\\Entities\\obj\\",
+>>>>>>> 946dffcf61b465aa8ccb9b2a5bcd24d32eae3301
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eyuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+<<<<<<< HEAD
+    "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\eyuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Repositories\\obj\\",
+=======
+    "C:\\Users\\eyuphan\\Desktop\\Proje\\Repositories\\Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eyuphan\\Desktop\\Proje\\Repositories\\Repositories.csproj",
+        "projectName": "Repositories",
+        "projectPath": "C:\\Users\\eyuphan\\Desktop\\Proje\\Repositories\\Repositories.csproj",
+        "packagesPath": "C:\\Users\\eyuphan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eyuphan\\Desktop\\Proje\\Repositories\\obj\\",
+>>>>>>> 946dffcf61b465aa8ccb9b2a5bcd24d32eae3301
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eyuphan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+<<<<<<< HEAD
+              "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\eyuphan\\Desktop\\Login\\Proje\\Entities\\Entities.csproj"
+=======
+              "C:\\Users\\eyuphan\\Desktop\\Proje\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\eyuphan\\Desktop\\Proje\\Entities\\Entities.csproj"
+>>>>>>> 946dffcf61b465aa8ccb9b2a5bcd24d32eae3301
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
